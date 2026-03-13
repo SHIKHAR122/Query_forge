@@ -154,8 +154,6 @@ streamlit run app.py
 
 ## Built By
 
-**Shikhar** — Aspiring Data Engineer
-
-Building toward a Data Engineering internship by March 2027.
+**Shikhar Sharma** — Aspiring Data Engineer
 
 > *"Most students stop at SQLite and DB Browser. Query Forge is what happens when you rebuild the right way."*
